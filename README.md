@@ -2,7 +2,7 @@
 
 ## Overview of Pewlett-Hackard Analysis
 
-#### The purpose of this analysis was to utilize my newly acquired SQL skills, doing so by simulating the analysis of employee data for a company called "Pewlett-Hackard". Visual Studio Code and pgAdmin 4 were used in tandem to create a myriad of readable CSV tables of the data, such as current employees, employees near retirement, employees sorted by their departments, and etc. The purpose of the challenge was to create tables that specifically determined the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program as they reach retirement age.
+### The purpose of this analysis was to utilize my newly acquired SQL skills, doing so by simulating the analysis of employee data for a company called "Pewlett-Hackard". Visual Studio Code and pgAdmin 4 were used in tandem to create a myriad of readable CSV tables of the data, such as current employees, employees near retirement, employees sorted by their departments, and etc. The purpose of the challenge was to create tables that specifically determined the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program as they reach retirement age.
 
 ## Results
 
